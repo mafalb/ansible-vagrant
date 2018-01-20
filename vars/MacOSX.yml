@@ -1,0 +1,4 @@
+---
+
+vagrant:
+  pkg_mgr: homebrew_cask
